@@ -23,7 +23,8 @@ You can view the source code of my personal projects here.
 - Qt
 
 I'm certainly open to collaboration and internship/job opportunites!
+
 I have a particular interest in web and app development (and of course web app development), but I'm still very much interested in things beyond that.
 
-### Inquiries
+### Contact
 Feel free to reach me at development.noahsadir@gmail.com for any questions or requests.
