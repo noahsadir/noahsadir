@@ -1,6 +1,4 @@
-## About Me
-
-Hi there! 
+## Hi there!
 
 I'm a first year computer science student at the University of Georgia.
 
