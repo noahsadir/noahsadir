@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a second-year computer science student at the University of Georgia.
+I'm a third-year computer science student at Georgia Tech.
 
 You can view the source code for some of my personal projects here.
 
