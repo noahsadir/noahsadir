@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a third-year computer science student at Georgia Tech.
+I'm a fourth-year computer science student at Georgia Tech.
 
 My computer science interests span quite a range of areas, as you can probably see :)
 
